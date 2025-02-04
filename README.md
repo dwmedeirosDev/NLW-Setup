@@ -1,7 +1,7 @@
 <h1 align="center">Habits</h1>
 
 <p align="center">
-Projeto criado juntamente com NLW-Setup que é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB com objetivo de melhorar minhas <b>hard-skills<br/>
+Projeto criado juntamente com NLW-Setup que é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB com objetivo de melhorar minhas <b>hard-skills</b>.<br/>
 </p>
 
 <p align="center">
