@@ -58,6 +58,4 @@ Esse projeto está sob a licença MIT.
 
 <br>
 
----
-
 <h3 align="center">Feito por David Medeiros<h3>
